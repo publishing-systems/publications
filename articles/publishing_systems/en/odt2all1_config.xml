@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Copyright (C) 2015  Stephan Kreutzer
+
+This file is part of publishing-systems.org.
+
+publishing-systems.org is free software: you can redistribute it and/or modify
+it under the terms of the GNU Affero General Public License version 3 or any later version,
+as published by the Free Software Foundation.
+
+publishing-systems.org is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+GNU Affero General Public License 3 for more details.
+
+You should have received a copy of the GNU Affero General Public License 3
+along with publishing-systems.org. If not, see <http://www.gnu.org/licenses/>.
+-->
+<odt2all1-config>
+  <input-file path="./title.odt"/>
+  <input-file path="./pressbooks.odt"/>
+  <input-file path="./license.odt"/>
+  <html2epub1-config-file path="./html2epub1_config.xml"/>
+  <html2pdf1-workflow-txtreplace1-replacement-dictionary path="./html2pdf1_workflow_txtreplace1_replacement_dictionary.xml"/>
+</odt2all1-config>

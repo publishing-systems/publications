@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--
+Copyright (C) 2015  Stephan Kreutzer
+
+This file is part of publishing-systems.org.
+
+publishing-systems.org is free software: you can redistribute it and/or modify
+it under the terms of the GNU Affero General Public License version 3 or any later version,
+as published by the Free Software Foundation.
+
+publishing-systems.org is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+GNU Affero General Public License 3 for more details.
+
+You should have received a copy of the GNU Affero General Public License 3
+along with publishing-systems.org. If not, see <http://www.gnu.org/licenses/>.
+-->
+<html2epub1-config>
+  <in>
+  </in>
+  <out>
+    <outDirectory/>
+    <metaData>
+      <title>Betrachtung verschiedener Publikationssysteme</title>
+      <creator>Stephan Kreutzer</creator>
+      <subject>Publikationssysteme</subject>
+      <description>Betrachtung verschiedener Publikationssysteme</description>
+      <publisher>Stephan Kreutzer</publisher>
+      <identifier>betrachtung_verschiedener_publikationssysteme</identifier>
+      <source>https://github.com/publishing-systems/publications/articles/publishing_systems/de/</source>
+      <language>de</language>
+      <coverage>Pressbooks</coverage>
+      <rights>Copyright (C) 2015 Stephan Kreutzer. GNU Affero General Public License 3 or any later version.</rights>
+    </metaData>
+  </out>
+</html2epub1-config>
